@@ -1,0 +1,24 @@
+Amaç:
+E-ticaret  sitelerinin  tasarımı  ve  işlevselliği  konusunda  pratik  beceriler  kazanmak, modern  web  teknolojilerini  etkin  bir  şekilde  kullanarak  kullanıcı  dostu  bir  alışveriş platformu oluşturmak.
+
+Tanıtım:
+Bu projede, WordPress kullanarak bir tema seçip e-ticaret sitesi oluşturuldu.
+Projede WooCommerce, WP  Forms  ve StickyElements  gibieklentiler  kullanıldı.
+
+Tema Seçimi ve Kurulum: WordPress için uygun ve modern bir tema seçildi ve kuruldu.
+
+Logo ve Favicon Ekleme:Siteye özgün bir logo ve favicon eklendi.
+
+WhatsApp numarası ve telefon eklentisi (sadece ikisi) olan myStickyElements adında bir widget eklendi.
+
+Ana Sayfa ve Bize Ulaşın Sayfası Oluşturma: Ana Sayfa için başlık, ana sayfa resmi ve bir paragraflık tarihçe eklendi.
+
+Ana Sayfa’yı ana sayfa olarak ayarlarını gerçekleştirildi. Bize  Ulaşın sayfasında  şirket  bilgileri (e-posta ve Whatsapp) ve WP Forms ile oluşturulmuş bir anket yer alıyor.
+
+Ürünler Yazı Sayfası Oluşturma: Üç farklı kategori belirleyin ve her kategori için üç yazı sayfası oluşturuldu.Her yazı sayfasında içeriğinizle alakalı bir başlık, bir resim ve kısa bir metin yer alıyor. 
+
+Satış Mağazası (WooCommerce Ürün Sayfası): Her yazı sayfasındaki ürün için bir WooCommerce ürün sayfası oluşturuldu.
+
+Toplamda  9  adet  ürün  girildi,  ürün  açıklamalarını içeriğe göre yazıldı ve ürün fiyatlarını belirlendi.
+
+Menümdeki Satış Mağazası'ndan ürün sayfama erişim sağlayacak ayarları yapıldı. 
